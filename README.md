@@ -1,1 +1,2 @@
 # codewars
+my codewars trainings
